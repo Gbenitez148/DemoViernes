@@ -289,5 +289,4 @@ COUNT(DISTINCT SINIESTROS_Cod_Siniestro)
     <ActionItems></ActionItems>
   </Layout>
   <PrintSettings></PrintSettings>
-  <UserSized>true</UserSized>
 </TextObjectProperties>

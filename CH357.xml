@@ -2331,7 +2331,7 @@ NUM(SUM({$&lt;CALENDARIO_LINK_Periodo={$(=MaxString(CALENDARIO_LINK_Periodo))},
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>PREVENCIONISTAS_POLIZAS_Nombre</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Prevencionista</v>
@@ -2517,7 +2517,7 @@ NUM(SUM({$&lt;CALENDARIO_LINK_Periodo={$(=MaxString(CALENDARIO_LINK_Periodo))},
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>MOVCARTERA_Poliza</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Contrato</v>
@@ -2726,7 +2726,7 @@ NUM(SUM({$&lt;CALENDARIO_LINK_Periodo={$(=MaxString(CALENDARIO_LINK_Periodo))},
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>MOVCARTERA_Razon_Social</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Razón Social</v>

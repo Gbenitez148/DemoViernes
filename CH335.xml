@@ -5417,7 +5417,7 @@ Num((COUNT(DISTINCT{&lt;SINIESTROS_KEY_PERIODO={$(=Max(CALENDARIO_LINK_Periodo))
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>RangoCapitasDesc</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Rango Cápitas</v>

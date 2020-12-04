@@ -2608,7 +2608,7 @@ Count ({&lt;	CALENDARIO_LINK_MesFiscal={&quot;&lt;=$(=Max(CALENDARIO_LINK_MesFis
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>CALENDARIO_LINK_AñoFiscal</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>

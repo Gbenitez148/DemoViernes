@@ -321,5 +321,4 @@ Count ({&lt; CALENDARIO_LINK_AñoART={$(=Max(CALENDARIO_LINK_AñoART)-1)},
     <ActionItems></ActionItems>
   </Layout>
   <PrintSettings></PrintSettings>
-  <UserSized>true</UserSized>
 </TextObjectProperties>

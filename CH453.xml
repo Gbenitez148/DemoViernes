@@ -778,7 +778,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>MOVCARTERA_Poliza</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Póliza</v>
@@ -964,7 +964,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>MOVCARTERA_Tipo_Poliza</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Tipo Póliza</v>
@@ -1150,7 +1150,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>RangoCapitasDesc</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Rango Cápitas</v>
@@ -1336,7 +1336,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>POLIZA_Zona_Cualit_Desc</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Región</v>
@@ -1522,7 +1522,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>POLIZA_Provincia</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Provincia</v>
@@ -1708,7 +1708,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>PREVENCIONISTAS_POLIZAS_Nombre</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Prevencionista</v>
@@ -1894,7 +1894,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>PREVENCIONISTAS_POLIZAS_Supervisor</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Supervisor</v>

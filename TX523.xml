@@ -286,5 +286,4 @@ NUM(COUNT(DISTINCT{$&lt;CALENDARIO_LINK_AñoART={$(=Max(CALENDARIO_LINK_AñoART)
     <ActionItems></ActionItems>
   </Layout>
   <PrintSettings></PrintSettings>
-  <UserSized>true</UserSized>
 </TextObjectProperties>

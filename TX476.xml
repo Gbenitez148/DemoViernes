@@ -274,5 +274,4 @@ if(CALENDARIO_LINK_AñoFiscal&lt;&gt;Min({&lt;CALENDARIO_LINK_Año=, CALENDARIO_
     <ActionItems></ActionItems>
   </Layout>
   <PrintSettings></PrintSettings>
-  <UserSized>true</UserSized>
 </TextObjectProperties>

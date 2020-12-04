@@ -3907,7 +3907,7 @@ Date(MaxString({1&lt; CALENDARIO_VISITAS_CONTINUO={$(=Max(CALENDARIO_VISITAS_CON
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>CALENDARIO_VISITAS_Periodo</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>

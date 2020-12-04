@@ -780,7 +780,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SUCURSALES_NPoliza</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Póliza</v>
@@ -966,7 +966,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>MOVCARTERA_Tipo_Poliza</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Tipo Póliza</v>
@@ -1152,7 +1152,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SUCURSALES_Id_Establecimiento</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Establecimiento</v>
@@ -1338,7 +1338,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SUCURSALES_NroObra</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Nº Obra</v>
@@ -1524,7 +1524,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SUCURSALES_Tipo_Actividad</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Tipo Act.</v>
@@ -1710,7 +1710,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SUCURSALES_Region</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Región</v>
@@ -1896,7 +1896,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SUCURSALES_Provincia</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Provincia</v>
@@ -2082,7 +2082,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>PREVENCIONISTAS_ESTABLECIMIENTOS_Nombre</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Prevencionista</v>
@@ -2268,7 +2268,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>PREVENCIONISTAS_ESTABLECIMIENTOS_Supervisor</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Supervisor</v>
@@ -2454,7 +2454,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SUCURSALES_Clasificacion_SRT</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Programa Normativo</v>

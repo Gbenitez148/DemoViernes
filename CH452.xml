@@ -1073,7 +1073,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>CALENDARIO_LINK_MesFiscal_Nombre</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>

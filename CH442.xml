@@ -661,7 +661,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>CALENDARIO_LINK_AñoFiscal</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>
@@ -847,7 +847,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>RangoAcotado</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>

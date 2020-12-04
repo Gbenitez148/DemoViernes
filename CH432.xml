@@ -1051,7 +1051,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>_FLAG_CASAS_ESTABLECIMIENTOS_OBRAS</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>

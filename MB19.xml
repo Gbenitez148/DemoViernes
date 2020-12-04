@@ -360,7 +360,7 @@
       </Label>
       <FieldDef>
         <Name>MOVCARTERA_Poliza</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -399,7 +399,7 @@
       </Label>
       <FieldDef>
         <Name>SUCURSALES_Id_Establecimiento</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -477,7 +477,7 @@
       </Label>
       <FieldDef>
         <Name>SUCURSALES_NroObra</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -516,7 +516,7 @@
       </Label>
       <FieldDef>
         <Name>VISITAS_Fecha_Vto</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -555,7 +555,7 @@
       </Label>
       <FieldDef>
         <Name>VISITAS_Fecha_Mod</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -594,7 +594,7 @@
       </Label>
       <FieldDef>
         <Name>VISITAS_Fecha_Alta_Informe</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -633,7 +633,7 @@
       </Label>
       <FieldDef>
         <Name>TIPO_VISITA_Descripcion</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -672,7 +672,7 @@
       </Label>
       <FieldDef>
         <Name>RangoCapitasDesc</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -718,7 +718,7 @@
       </Label>
       <FieldDef>
         <Name>SUCURSALES_Visitable_SN</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -757,7 +757,7 @@
       </Label>
       <FieldDef>
         <Name>SUCURSALES_Prog_Seg_SN</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -796,7 +796,7 @@
       </Label>
       <FieldDef>
         <Name>SUCURSALES_Tipo_Obra</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -835,7 +835,7 @@
       </Label>
       <FieldDef>
         <Name>SUCURSALES_Tipo_Actividad</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>

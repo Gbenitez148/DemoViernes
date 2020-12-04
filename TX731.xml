@@ -273,5 +273,4 @@ SUM({$&lt;CALENDARIO_LINK_AñoFiscal={$(=Max(CALENDARIO_LINK_AñoFiscal)-1)},
     <ActionItems></ActionItems>
   </Layout>
   <PrintSettings></PrintSettings>
-  <UserSized>true</UserSized>
 </TextObjectProperties>

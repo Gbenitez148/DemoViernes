@@ -1044,7 +1044,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>POLIZA_Clasificacion_SRT</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>
@@ -1230,7 +1230,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>MOVCARTERA_Tipo_Poliza</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title></Title>
       <TotalString></TotalString>

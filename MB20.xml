@@ -360,7 +360,7 @@
       </Label>
       <FieldDef>
         <Name>SUCURSALES_Id_Establecimiento</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -438,7 +438,7 @@
       </Label>
       <FieldDef>
         <Name>VISITAS_Fecha_Vto</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -477,7 +477,7 @@
       </Label>
       <FieldDef>
         <Name>VISITAS_Fecha_Mod</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -516,7 +516,7 @@
       </Label>
       <FieldDef>
         <Name>VISITAS_Fecha_Alta_Informe</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -555,7 +555,7 @@
       </Label>
       <FieldDef>
         <Name>TIPO_VISITA_Descripcion</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -594,7 +594,7 @@
       </Label>
       <FieldDef>
         <Name>VISITAS_Visita_Efectiva_Fallida_PV</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -633,7 +633,7 @@
       </Label>
       <FieldDef>
         <Name>PREVENCIONISTAS_VISITAS_Nombre</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>
@@ -672,7 +672,7 @@
       </Label>
       <FieldDef>
         <Name>PREVENCIONISTAS_VISITAS_Supervisor</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </FieldDef>
       <SortCriteria>
         <SortByState>1</SortByState>

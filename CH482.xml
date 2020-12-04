@@ -5631,7 +5631,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SUCURSALES_Id_Establecimiento</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Establec</v>
@@ -6003,7 +6003,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>OBJETIVO_VISITAS_Año</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Año obj</v>
@@ -6189,7 +6189,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>VISITAS_Fecha_Vto</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Fecha prog</v>
@@ -6375,7 +6375,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>VISITAS_Fecha_Visita</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Fecha visita</v>
@@ -6561,7 +6561,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>OBJETIVO_VISITAS_Ultima_Fecha_Visita</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Última visita referencia</v>
@@ -6747,7 +6747,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>OBJETIVO_VISITAS_Vencimiento</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Fecha límite</v>
@@ -6933,7 +6933,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>MOTIVO_VISITA_FALLIDA_Desc</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Motivo fallida</v>
@@ -7119,7 +7119,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>VISITAS_Fecha_Mod</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Fecha reg visita</v>
@@ -7305,7 +7305,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>VISITAS_Recepcion_Informe</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Fh recepción informe</v>
@@ -7491,7 +7491,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>VISITAS_Fecha_Alta_Informe</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Fh alta informe</v>
@@ -7677,7 +7677,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>PREVENCIONISTAS_VISITAS_Nombre</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Prevencionista Visita</v>
@@ -7863,7 +7863,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>KEY_E_F_PV_B_PP</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>E/F/PV/B/PP</v>
@@ -9770,6 +9770,7 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
     <VerticalLabels>false</VerticalLabels>
     <ColWidths>
       <int>238</int>
+      <int>66</int>
       <int>122</int>
       <int>188</int>
       <int>191</int>
@@ -9785,7 +9786,6 @@ if(ESTADO_463='PP',$(=_Color_Complementario4_5),
       <int>134</int>
       <int>128</int>
       <int>134</int>
-      <int>100</int>
       <int>100</int>
       <int>100</int>
       <int>100</int>

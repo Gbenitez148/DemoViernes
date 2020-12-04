@@ -4143,7 +4143,7 @@ null()  ,
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SINIESTROS_Estado_Acept</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Estado Acept.</v>
