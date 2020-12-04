@@ -2323,7 +2323,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>PREVENCIONISTAS_POLIZAS_Nombre</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Prevencionista</v>

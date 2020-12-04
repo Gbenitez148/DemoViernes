@@ -276,7 +276,7 @@
   </Layout>
   <Def>
     <Name>IndicadoresGraficosObras</Name>
-    <Type>PRESENT</Type>
+    <Type>NOT_PRESENT</Type>
   </Def>
   <Title></Title>
   <PrintSettings>

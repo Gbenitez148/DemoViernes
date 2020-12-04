@@ -1043,7 +1043,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>MOVCARTERA_Tipo_Poliza</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>

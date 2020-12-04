@@ -660,7 +660,7 @@
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>CALENDARIO_VISITAS_AñoFiscal</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v> </v>

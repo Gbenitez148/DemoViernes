@@ -293,5 +293,4 @@ COUNT(DISTINCT {$&lt;SINIESTROS_Estado_Acept-={Rechazado}
     <ActionItems></ActionItems>
   </Layout>
   <PrintSettings></PrintSettings>
-  <UserSized>true</UserSized>
 </TextObjectProperties>

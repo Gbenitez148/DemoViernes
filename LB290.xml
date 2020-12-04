@@ -248,7 +248,7 @@
   </Layout>
   <Def>
     <Name>PREVENCIONISTAS_POLIZAS_Supervisor</Name>
-    <Type>PRESENT</Type>
+    <Type>NOT_PRESENT</Type>
   </Def>
   <Title></Title>
   <PrintSettings>

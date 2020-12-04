@@ -2940,7 +2940,7 @@ null()  ,
     <ChartDimensionDataDef>
       <PseudoDef>
         <Name>SINIESTROS_Region</Name>
-        <Type>PRESENT</Type>
+        <Type>NOT_PRESENT</Type>
       </PseudoDef>
       <Title>
         <v>Región</v>

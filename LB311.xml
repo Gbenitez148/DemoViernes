@@ -276,7 +276,7 @@
   </Layout>
   <Def>
     <Name>SUCURSALES_Tipo_Actividad</Name>
-    <Type>PRESENT</Type>
+    <Type>NOT_PRESENT</Type>
   </Def>
   <Title></Title>
   <PrintSettings>

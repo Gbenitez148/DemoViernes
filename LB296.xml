@@ -248,7 +248,7 @@
   </Layout>
   <Def>
     <Name>ITERACION_REPORTE_AMBA</Name>
-    <Type>PRESENT</Type>
+    <Type>NOT_PRESENT</Type>
   </Def>
   <Title></Title>
   <PrintSettings>
